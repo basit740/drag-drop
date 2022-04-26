@@ -1,0 +1,6 @@
+.drag-container {
+	position: absolute;
+	right: 0;
+	min-height: 800px;
+	padding: 20px;
+}

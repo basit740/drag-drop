@@ -1,0 +1,10 @@
+.drop-container {
+	background: rgb(88, 76, 76);
+	padding: 30px;
+
+	height: 800px;
+	margin-right: 300px;
+	width: 100%;
+	margin-top: 30px;
+	margin-left: 50px;
+}

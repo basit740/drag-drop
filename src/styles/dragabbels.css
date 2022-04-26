@@ -1,0 +1,15 @@
+.draggable {
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px soild black;
+	max-width: 200px;
+	background-color: grey;
+	margin-bottom: 5px;
+	cursor: grabbing;
+}
+.draggable h1 p {
+	width: 100%;
+}
+.dragging {
+	border: 2px solid yellow;
+}
